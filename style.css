@@ -1,0 +1,36 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    background: #333;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game-area {
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+canvas {
+    border: 2px solid orange;
+    border-radius: 6px;    
+}
+.number-area {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 64px;
+    pointer-events: none;
+    user-select: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
