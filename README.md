@@ -1,15 +1,15 @@
-# PhaserTemplate
+# HexDice
 
-Get started quickly with [PhaserJS](https://phaser.io/phaser3), [MatterJS](https://brm.io/matter-js/) physics, physics joints, and local multiplayer.
+A new kind of dice in two dimensions. 
 
-# How to Use
+# Controls
 
-1. `Clone` this repo.
-2. Serve `index.html` on localhost.
-3. Both ships should control with `WASD` and `Arrow Keys`.   
+Click and drag the dice with the mouse
 
 # Live Demo
 
-Try the [Live Demo](https://regularmemory.blog/PhaserTemplate)
+[View Live Demo](#)
 
-[![](./demo.gif)](https://regularmemory.blog/PhaserTemplate)
+# Demo GIF
+
+[![](./demo.gif)](#)
