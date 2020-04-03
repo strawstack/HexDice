@@ -8,8 +8,8 @@ Click and drag the dice with the mouse
 
 # Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://regularmemory.blog/HexDice/.)
 
 # Demo GIF
 
-[![](./demo.gif)](#)
+[![](./demo.gif)](https://regularmemory.blog/HexDice/.)
