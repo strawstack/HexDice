@@ -8,8 +8,8 @@ Click and drag the dice with the mouse
 
 # Live Demo
 
-[View Live Demo](https://regularmemory.blog/HexDice/.)
+[View Live Demo](https://strawstack.github.io/HexDice)
 
 # Demo GIF
 
-[![](./demo.gif)](https://regularmemory.blog/HexDice/.)
+[![](./demo.gif)](https://strawstack.github.io/HexDice)
